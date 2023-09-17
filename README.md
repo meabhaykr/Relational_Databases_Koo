@@ -48,9 +48,8 @@ Koo is a multilingual microblogging platform founded in March 2020 by Aprameya R
 ## Schema and ER Diagram
 
 For detailed schema and ER diagram, refer to the [Schema and ER Diagram section](#schema-and-er-diagram) above.
-![ER Diagram](https://github.com/meabhaykr/Relational_Databases_Koo/assets/129173739/95002052-12e7-4569-ad85-d779962304f4)
 
-image/ER Diagram.png
+![ER Diagram](https://github.com/meabhaykr/Relational_Databases_Koo/assets/129173739/95002052-12e7-4569-ad85-d779962304f4)
 
 ## Getting Started
 
