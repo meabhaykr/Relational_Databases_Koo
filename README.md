@@ -1,6 +1,7 @@
 # Relational_Databases_Koo
 
 # Koo - Multilingual Microblogging Platform
+
 ## Overview
 
 Koo is a multilingual microblogging platform founded in March 2020 by Aprameya Radhakrishna and Mayank Bidawatka. It is headquartered in Bangalore, India, and is designed to cater to India's linguistic diversity by allowing users to communicate in their preferred regional languages.
