@@ -2,7 +2,7 @@
 
 # Koo - Multilingual Microblogging Platform
 
-https://github.com/meabhaykr/Relational_Databases_Koo/blob/main/image/Koo-app.avif
+![ER Diagram](https://github.com/meabhaykr/Relational_Databases_Koo/blob/main/image/Koo-app.avif)
 
 ## Overview
 
